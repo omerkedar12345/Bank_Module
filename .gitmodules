@@ -1,0 +1,3 @@
+[submodule "CapitoService"]
+	path = CapitoService
+	url = https://github.com/omerkedar12345/CapitoService.git
